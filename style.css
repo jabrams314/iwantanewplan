@@ -247,6 +247,33 @@ ul {
     font-size: 0.8rem;
 }
 
+.hero-cta-wrapper {
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.hero-cta-btn {
+    font-size: 1rem;
+    padding: 14px 28px;
+    border-radius: 30px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hero-cta-subtext {
+    font-size: 0.8rem;
+    color: #888780;
+    margin-top: 10px;
+}
+
+.hero-cta-alert {
+    font-size: 0.8rem;
+    color: #993C1D;
+    font-weight: 500;
+    margin-top: 4px;
+}
+
 .hero-visuals {
     position: relative;
     height: 400px;
